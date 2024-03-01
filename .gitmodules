@@ -1,0 +1,9 @@
+[submodule "app/files/lambda/vendor/s3-secure"]
+	path = app/files/lambda/vendor/s3-secure
+	url = git@github.com:boltopspro/s3-secure-cli
+[submodule "app/files/lambda/vendor/security-group"]
+	path = app/files/lambda/vendor/security-group
+	url = git@github.com:boltopspro/security-group-cli
+[submodule "app/files/lambda/vendor/sns-secure"]
+	path = app/files/lambda/vendor/sns-secure
+	url = git@github.com:boltopspro/sns-secure-cli
